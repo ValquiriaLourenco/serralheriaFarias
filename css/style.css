@@ -1,0 +1,46 @@
+body{
+    background-color:black; 
+}
+h1{
+    display: inline;
+    margin-left: 20px;
+    text-align: center;
+}
+h2,p,h1{
+    text-align: center;
+}
+ul{ 
+    text-align:center;
+    display:inline;
+    margin-left:20px;
+    color:brown;
+    font-weight:bold;
+    border:2px solid brown; 
+    padding:5px;
+    font-size: 40pt;
+    }
+.destaque{
+    background-color: chocolate;
+    padding: 20px;
+   margin-bottom: 20px;
+}
+.destaquel{ 
+    background-color: chocolate;
+    padding: 20px;
+   margin-bottom: 20px;
+   text-transform: uppercase;
+  text-decoration:underline;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#dov{
+    width:100px; 
+}   
+ main{
+    background-color:peru;
+    margin: auto 10%;
+ }
+ 

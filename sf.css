@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color:white;
+}
+header {
+    position: relative;
+    text-align: center;
+    border-radius: 10px;
+  
+    background-color:dimgrey;
+    
+}
+h1{
+    font-size: 50pt;
+    color: black;  
+}
+h2{
+    font-size: 30pt ;
+    text-align: center;
+}
+h3{
+    line-height: 10px;
+ margin: 80px;
+ font-size: 30pt;
+}
+li{
+    text-align: center;
+   border:double;
+    display: inline;
+    margin-left: 20px;
+    padding: 20px;
+    background-color:dimgray;
+}
+footer{
+    font-size: 20pt;
+    position: relative;
+    text-align: center;
+    border-radius: 10px;
+  
+    background-color:dimgrey;
+}
